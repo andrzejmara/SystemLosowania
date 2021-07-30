@@ -9,7 +9,8 @@ namespace SystemLosowania
         {
 
             string[] words = { "Robert", "Mleczko", "robi", "doktorat", "ze",
-                "sztuki", "a", "ja", "mam", "tylko","magistra","może","też","kiedyś","zrobię","fajnie","by","było" ,"życie","jest","nobelon"
+                "sztuki", "a", "ja", "mam", "tylko","magistra","może","też","kiedyś","zrobię",
+                "fajnie","by","było" ,"życie","jest","nobelon"
                 ,"raz","przyjazne","a raz", "wrogon"
             };
             RandomText text = new RandomText(words);
